@@ -1,10 +1,3 @@
-//
-//  CordeliaApp.swift
-//  Cordelia
-//
-//  Created by Shihan Panwar on 06/08/26.
-//
-
 import SwiftUI
 import SwiftData
 

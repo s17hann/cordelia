@@ -1,5 +1,7 @@
 # Cordelia
 
+*Made by Shihan*
+
 A SwiftUI music player for iPhone that plays songs from your own files, built as an experiment to bring **Apple Music Haptics** to a third-party app.
 
 > **Status: work in progress.** The player works. Apple's system Music Haptics does **not** yet work for Cordelia (see [Music Haptics status](#music-haptics-status)). Contributions and ideas are welcome.
@@ -90,8 +92,12 @@ At the moment, `play()` uses a hard-coded test ISRC for debugging instead of thi
 
 ## Disclaimer
 
-Cordelia is an independent hobby project. It is not affiliated with or endorsed by Apple or Spotify. Apple Music and Music Haptics are Apple trademarks. Spotify is a trademark of Spotify AB. Bring your own music files, and only use music you have the right to use.
+Cordelia is an independent hobby project by Shihan. It is not affiliated with or endorsed by Apple or Spotify. Apple Music and Music Haptics are Apple trademarks. Spotify is a trademark of Spotify AB. Bring your own music files, and only use music you have the right to use.
+
+## Author
+
+Built by **Shihan**. I'm learning iOS development by building this app, and I'm sharing it as an ongoing project. Feedback, issues and pull requests are welcome.
 
 ## License
 
-Add a license file before accepting contributions. The MIT license is a common choice for hobby projects.
+MIT License. Copyright (c) 2026 Shihan. See the [LICENSE](LICENSE) file for details.

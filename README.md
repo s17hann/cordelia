@@ -97,7 +97,3 @@ Cordelia is an independent hobby project by Shihan. It is not affiliated with or
 ## Author
 
 Built by **Shihan**. I'm learning iOS development by building this app, and I'm sharing it as an ongoing project. Feedback, issues and pull requests are welcome.
-
-## License
-
-MIT License. Copyright (c) 2026 Shihan. See the [LICENSE](LICENSE) file for details.
